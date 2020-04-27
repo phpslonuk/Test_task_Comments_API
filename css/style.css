@@ -322,6 +322,10 @@ body {
     .header_text {
         font-size: 60px;
     }
+    .header{
+    	height: auto;
+    }
+
 }
 
 @media(max-width: 600px) {
@@ -331,8 +335,7 @@ body {
     .logo {
         display: none;
     }
-    .header {
-        height: 246px;
+
     }
     .about_section {
         display: block;
